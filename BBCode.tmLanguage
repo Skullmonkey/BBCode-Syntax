@@ -17,5 +17,7 @@
       <string>BBCode</string>
     <key>scopeName</key>
       <string>source.bbcode</string>
+    <key>uuid</key>
+      <string>25b4220c-3adb-493a-898b-163299fd4be4</string>
   </dict>
 </plist>
