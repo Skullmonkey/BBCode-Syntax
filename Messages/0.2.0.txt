@@ -1,0 +1,6 @@
+BBCode Syntax 0.2.0
+===================
+
+-Fixed tab triggers.
+
+I plan on styling everything and adding text wrapping. Stay tuned.
